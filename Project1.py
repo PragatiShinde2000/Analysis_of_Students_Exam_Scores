@@ -1,8 +1,8 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# #                        Project Title:
-# ##                          Analysis Of Students Exam Scores.
+# #  Project Title:
+# ## Analysis Of Students Exam Scores.
 # #### Analytics questions:
 # ##### What factors (features) affect test scores most?
 # ##### Are there interacting features which affect test scores?
@@ -90,7 +90,7 @@ plt.show()
 
 
 # ## Conclusion:
-# ### From the above chart we have analysed that the number of females in the data is more than the number of males.
+# ### From the above chart we have analysed that the number of females in the data are more than the number of males.
 
 # # Relationship between Parent's Education and Student's Score
 
@@ -111,7 +111,7 @@ plt.show()
 
 
 # ## Conclusion:
-# ### From the above chart we have conclude that the education of the parent have a good impact on their scores.
+# ### From the above chart we have observed that the students of highly educated parents have better scores than rest students. 
 
 # # Relationship between Parent's Marital Status and Student's Score
 
@@ -131,7 +131,7 @@ plt.show()
 
 
 # ## Conclusion:
-# ### From above chart we have conclude that there is no/negligible impact on the student's score due to their parent's marital status.
+# ### From above chart we have concluded that there is no/negligible impact on the student's score due to their parent's marital status.
 
 # # Detection of Outlier in Score:
 
@@ -158,7 +158,7 @@ plt.show()
 
 
 # # Conclusion:
-# ### From above chart we have conclude that there is minimum value is very low in the  Math Score as compaire to Reading Score and Writing Score.
+# ### From above chart we have concluded that there is minimum value is very low in the  Math Score as compared to Reading Score and Writing Score.
 
 # # Analyze exam scores based on weekly study hours
 
@@ -188,7 +188,7 @@ plt.show()
 
 
 # # Conclusion:
-# ### The student who spends more than 10 hours weekly studying seems to have a good performance in the math exam,but in writing and reading there's no significant differnce.
+# ### The students who spends more than 10 hours weekly studying seems to have a good performance in the Maths exam,but in writing and reading there's no significant differnce.
 
 # # Analyze exam scores based on gender:
 
